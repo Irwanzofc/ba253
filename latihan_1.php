@@ -1,5 +1,5 @@
 <?php
-$nim = "250030027";
+$nim = "250030042";
 $nama = "Andhika Adhi Irwansyah";
 $kodeJurusan = "SI";
 $angkatan = 2025;
